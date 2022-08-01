@@ -2,6 +2,8 @@
 
 Aplicação web front-end responsiva para pesquisar usuários do Github através dos seus nomes de usuários.
 
+![Captura de tela inteira 01082022 162530](https://user-images.githubusercontent.com/84052933/182229759-5dbdf530-5d40-4248-8a49-ea72f8c75f04.jpg)
+
 ## Deploy:
 ancient-lock.surge.sh
 
